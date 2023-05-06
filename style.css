@@ -1,0 +1,13 @@
+#show_sketch{
+    float: right;
+}
+#score{
+    float:left;
+}
+#timer{
+    float:right;
+}
+
+body{
+    background-color:coral;
+}
